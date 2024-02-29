@@ -1,0 +1,4 @@
+{
+  "input_cloud": "gcp",
+  "input_include_feature_store": "no"
+}
