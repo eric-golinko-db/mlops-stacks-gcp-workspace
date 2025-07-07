@@ -11,7 +11,7 @@ contains additional details on how ML pipelines are tested and deployed across e
 
 
 ## Code structure
-This project contains the following component:
+This project contains the following components:
 
 | Component                  | Description                                                                                                                                                                                                                                                                                                                                             |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
